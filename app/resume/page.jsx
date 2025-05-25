@@ -86,7 +86,7 @@ const education = {
 const course = {
     icon: "/assets/resume/cap.svg",
     title:  "My courses",
-    description: "These are some of the courses, workshops & summer school which I have attendend so far.",
+    description: "These are some of the courses, workshops & summer school which I have attended so far.",
     items: [
         {
             institution: "QFI",

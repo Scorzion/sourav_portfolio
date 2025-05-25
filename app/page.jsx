@@ -17,7 +17,7 @@ const Home = () => {
             <h1 className="h1 mb-6">
               Hello I'm<br /> <span className="text-accent">Sourav Sharma</span>
             </h1>
-            <p className="max-w-[500px] mb-9 text-white/80">Aspiring ICPC Gold Medalist | Software & Quant Finance Enthusiast | CSE @ IISER Bhopal'28
+            <p className="max-w-[500px] mb-9 text-white/80">Aspiring Quant Developer | Software & Quant Finance Enthusiast | CSE @ IISER Bhopal'28
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
