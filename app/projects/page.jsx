@@ -66,8 +66,8 @@ const Projects = () => {
         title: "Portfolio Website",
         description: "A responsive portfolio website built with modern web technologies.",
         tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
-        github: "#",
-        live: "#",
+        github: "https://github.com/sneakytyper/sourav_portfolio",
+        live: "https://sourav-portfolio-five.vercel.app/",
         status: "completed",
         icon: <FiBriefcase className="text-accent" />,
         year: "2025"
