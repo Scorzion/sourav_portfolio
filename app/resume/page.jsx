@@ -32,7 +32,7 @@ const about = {
         },
         {
             fieldName: "Personal Email",
-            fieldValue: "sourav31vforce@gmail.com",
+            fieldValue: "sourav05in@gmail.com",
         },
         {
             fieldName: "Languages",
