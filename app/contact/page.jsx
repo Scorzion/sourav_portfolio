@@ -331,7 +331,9 @@ const Contact = () => {
             </div>
             <p className="text-muted-foreground hover:text-accent transition-colors">
               Mon-Fri: 5PM - 10PM
-              Appointments for weekends
+            </p>
+            <p className="text-muted-foreground hover:text-accent transition-colors">
+              Weekends: Book appointment
             </p>
           </div>
 
