@@ -119,7 +119,7 @@ const course = {
             certificate: "",
         },
 								{
-            institution: "Akuna Capital",
+            institution: "Akuna Capital University",
             course: "Akuna Capital 101",
             duration: "May 2025 - June 2025",
             certificate: "",
