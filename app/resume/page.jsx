@@ -112,6 +112,18 @@ const course = {
             duration: "Jun 2025 - Aug 2025",
             certificate: "",
         },
+								{
+            institution: "Quant Club | IIT KGP",
+            course: "Summer of Quant 2025",
+            duration: "Jun 2025 - Aug 2025",
+            certificate: "",
+        },
+								{
+            institution: "Akuna Capital",
+            course: "Akuna Capital 101",
+            duration: "May 2025 - June 2025",
+            certificate: "",
+        },
         {
             institution: "Abdul Bari | YT",
             course: "Algorithms",
