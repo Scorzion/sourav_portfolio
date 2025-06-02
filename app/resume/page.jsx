@@ -101,6 +101,19 @@ const course = {
             certificate: "",
         },
         {
+            institution: "Womanium & WISER",
+            course: "Quantum Program 2025",
+            duration: "Jun 2025 - Aug 2025",
+            certificate: "",
+        },
+        {
+            institution: "Quantum Ring",
+            course: "Quantum 101",
+            duration: "Jun 2025 - Aug 2025",
+            certificate: "",
+        },
+
+        {
             institution: "Krish Naik | Udemy",
             course: "Complete DS, ML, DL, NLP Bootcamp",
             duration: " July 2025 - Oct 2025",
@@ -112,16 +125,22 @@ const course = {
             duration: "Jun 2025 - Aug 2025",
             certificate: "",
         },
-								{
+		{
             institution: "Quant Club | IIT KGP",
             course: "Summer of Quant 2025",
             duration: "Jun 2025 - Aug 2025",
             certificate: "",
         },
-								{
+		{
             institution: "Akuna Capital University",
             course: "Options 101",
             duration: "May 2025 - June 2025",
+            certificate: "",
+        },
+        {
+            institution: "Consulting & Analytics Club | IIT Guwahati",
+            course: "Summer Analytics 2025",
+            duration: "May 2025 - Jun 2025",
             certificate: "",
         },
         {
