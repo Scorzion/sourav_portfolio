@@ -140,7 +140,8 @@ const course = {
             institution: "Google (Coursera) & Vizuara.ai (YT)",
             course: "Introduction to Git & Github",
             duration: "May 2025 - Jun 2025",
-            certificate: "",
+            certificate: "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6wNbdjyP96NZR7a9st0hn",
+            certificate: "https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6wNbdjyP96NZR7a9st0hn",
         },
         {
             institution: "Deeplearning.ai | Coursera",
@@ -152,7 +153,7 @@ const course = {
             institution: "TLE Eliminators",
             course: "Competitive Programming Level 1",
             duration: "Jul 2024 - Oct 2024",
-            certificate: "",
+            certificate: "https://drive.google.com/file/d/1UAAFitxP7tgNZQt7_AdCXzKlSBrEUXjm/view?usp=drive_link",
         },
         {
             institution: "Codio | Coursera",
