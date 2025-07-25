@@ -2,7 +2,7 @@
 
 import { FaPython, FaGit, FaGithub, FaDocker, FaAws, FaLinux, FaMicrosoft, FaNodeJs, FaDatabase, FaCloud} from 'react-icons/fa';
 
-import { SiC, SiCplusplus, SiNumpy, SiPandas} from 'react-icons/si'
+import { SiC, SiCplusplus, SiNumpy, SiPandas, SiCsharp} from 'react-icons/si'
 
 
 //about data
@@ -121,7 +121,7 @@ const course = {
         {
             institution: "TLE Eliminators",
             course: "Competitive Programming Level 2",
-            duration: "Jun 2025 - Aug 2025",
+            duration: "July 2025 - Aug 2025",
             certificate: "",
         },
 		{
@@ -177,6 +177,10 @@ const skills = {
             name: "C++",
         },
         {
+            icon: <SiCsharp />,
+            name: "C#",
+        },
+        {
             icon: <FaPython />,
             name: "Python",
         },
@@ -221,6 +225,12 @@ const volunteering = {
             institution: "Google Developer Group IISERB",
             role: "AI & ML Tech Lead",
             duration: "Oct 2024 - Present",
+            certificate: "https://gdg.community.dev/gdg-on-campus-indian-institute-of-science-education-and-research-bhopal-india/",
+        },
+        {
+            institution: "Placement Cell | IISER Bhopal",
+            role: "Student Volunteer",
+            duration: "Mar 2025 - Present",
             certificate: "",
         },
         {
