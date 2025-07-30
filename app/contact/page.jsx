@@ -346,7 +346,7 @@ const Contact = () => {
             </div>
             <div className="flex gap-4">
               <a 
-                href="https://github.com/sneakytyper" 
+                href="https://github.com/scorzion" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-colors flex items-center gap-2"
