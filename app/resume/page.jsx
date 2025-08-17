@@ -2,7 +2,7 @@
 
 import { FaPython, FaGit, FaGithub, FaDocker, FaAws, FaLinux, FaMicrosoft, FaNodeJs, FaDatabase, FaCloud} from 'react-icons/fa';
 
-import { SiC, SiCplusplus, SiNumpy, SiPandas, SiCsharp} from 'react-icons/si'
+import { SiC, SiCplusplus, SiNumpy, SiPandas} from 'react-icons/si'
 
 
 //about data
@@ -175,10 +175,6 @@ const skills = {
         {
             icon: <SiCplusplus />,
             name: "C++",
-        },
-        {
-            icon: <SiCsharp />,
-            name: "C#",
         },
         {
             icon: <FaPython />,
