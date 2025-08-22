@@ -306,7 +306,7 @@ const Contact = () => {
               <h3 className="text-lg font-semibold text-primary-foreground">Email</h3>
             </div>
             <p className="text-muted-foreground hover:text-accent transition-colors">
-              sourav05in@gmail.com
+              sourav11uin@gmail.com
             </p>
           </div>
 
